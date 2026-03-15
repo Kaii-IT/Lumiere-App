@@ -1,2 +1,2 @@
-# E-Shopping-App---Lumi-re
+LUMIERE-APP
 Abro's Group Midterm Group Research Project
